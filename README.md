@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xdevrabi&show_icons=true&locale=en&layout=compact" alt="xdevrabi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xdevrabi&" alt="xdevrabi" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=XDevRabi&theme=dark&hide_border=true&border_radius=2)](https://git.io/streak-stats)
