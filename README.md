@@ -50,6 +50,6 @@
   <img alt="Spline 3D" src="https://img.shields.io/badge/-Spline%203D-7260FF?style=flat-square&logo=spline&logoColor=white" />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xdevrabi&show_icons=true&locale=en&layout=compact" alt="xdevrabi" /></p>
-
+<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=XDevRabi&theme=dark&hide_border=true&border_radius=2)](https://git.io/streak-stats)
+</div>
