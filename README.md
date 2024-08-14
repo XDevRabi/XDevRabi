@@ -50,6 +50,4 @@
   <img alt="Spline 3D" src="https://img.shields.io/badge/-Spline%203D-7260FF?style=flat-square&logo=spline&logoColor=white" />
 </p>
 
-<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=XDevRabi&theme=dark&hide_border=true&border_radius=2)](https://git.io/streak-stats)
-</div>
