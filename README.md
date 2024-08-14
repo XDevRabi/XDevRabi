@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rabi</h1>
 <h3 align="center">A Creative UI/UX Designer & Passionate Frontend Developer from 🇳🇵</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xdevrabi&label=Profile%20views&color=0e75b6&style=flat" alt="xdevrabi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=xdevrabi&label=Profile%20views&color=brightgreen&style=plastic" alt="xdevrabi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xdevrabi&theme=darkhub&column=3&margin-w=15&margin-h=15&no-frame=true)" alt="xdevrabi" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xdevrabi&theme=darkhub&column=3&margin-w=15&margin-h=15&no-frame=true)" alt="xdevrabi" /></a> </p>
 
 - 🔭 I’m currently working on **sharping myself as a Frontend Engineer**
 
