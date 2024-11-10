@@ -48,6 +48,7 @@
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="React Query" src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white" />
   <img alt="Spline 3D" src="https://img.shields.io/badge/-Spline%203D-7260FF?style=flat-square&logo=spline&logoColor=white" />
+  <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-44cc11?style=flat-square&logo=nginx&logoColor=white" />
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=XDevRabi&theme=dark&hide_border=true&border_radius=2)](https://git.io/streak-stats)
