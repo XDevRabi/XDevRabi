@@ -4,21 +4,26 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xdevrabi&theme=darkhub&column=3&margin-w=15&margin-h=15&no-frame=true)" alt="xdevrabi" /></a> </p>
 
-<div align="center">
-🎨 Creative UI/UX Designer & Passionate Frontend Developer.<br/>
-🔭 Exploring Full Stack Development andf AI Engineering.<br/><br/>
-📫 Curious to see how pixels meet purpose? <br/> Dive into my world at [https://rabishiwakoti.com.np](https://rabishiwakoti.com.np)<br/>
-</div>
+<hr/>
+<br/>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+- 🎨 Creative UI/UX Designer & Passionate Frontend Developer.
+
+- 🔭 Exploring Full Stack Development andf AI Engineering.
+
+- 📫 Curious to see how pixels meet purpose? Dive into my world at [https://rabishiwakoti.com.np](https://rabishiwakoti.com.np)
+
+<br/>
+<h3>Connect with me:</h3>
+<p>
 <a href="https://linkedin.com/in/rabishiwakoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabishiwakoti" height="30" width="40" /></a>
 <a href="https://fb.com/rabishiwakoti77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rabishiwakoti77" height="30" width="40" /></a>
 <a href="https://instagram.com/rabishiwakoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rabishiwakoti" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Major Language & Tools:</h3>
-<p align="center">
+<br/>
+<h3>Major Language & Tools:</h3>
+<p>
 <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -48,6 +53,5 @@
 
 </p>
 
-<div align="center">
+<br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=XDevRabi&theme=dark&hide_border=true&border_radius=2)](https://git.io/streak-stats)
-</div>
