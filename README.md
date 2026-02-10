@@ -1,9 +1,5 @@
 <img width="1551" height="755" alt="image" src="https://github.com/user-attachments/assets/fe2f546f-cc26-4bd3-8061-44687546453f" />
-<hr/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xdevrabi&label=Profile%20views&color=brightgreen&style=plastic" alt="xdevrabi" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xdevrabi&theme=darkhub&column=3&margin-w=15&margin-h=15&no-frame=true)" alt="xdevrabi" /></a> </p>
-
 <hr/>
 
 - 🎨 Creative UI/UX Designer & Passionate Frontend Developer.
